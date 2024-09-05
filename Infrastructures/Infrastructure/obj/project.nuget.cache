@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+MdUq2jR31g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huseyn\\Desktop\\OnionArchitectureOne\\Infrastructures\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huseyn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
